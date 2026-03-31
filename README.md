@@ -1,7 +1,7 @@
 # 555 Timer Astable PCB
 
 ## Overview
-This PCB is a simple **555 timer** circuit configured in **astable mode**, designed to blink an LED. It is powered by a 9V battery and includes a single LED with a current-limiting resistor. The control voltage (CV) pin is disconnected. This was a project done under IEEE at UC Irvine. 
+This PCB is a simple **555 timer** circuit configured in **astable mode**, designed to blink an LED. It is powered by a 9V battery and includes a single LED with a current-limiting resistor. This was a project done under IEEE at UC Irvine. The PCB was designed using **KiCad**.  
 
 Key features:  
 
