@@ -17,9 +17,9 @@ Key features:
 - **Timer IC:** 555 timer (NE555)  
 - **Capacitor:** 1µF between TRIG/THRES and GND  
 - **Resistors:**  
+  - R1 = 1kΩ series resistor with LED 
   - R2 = 470kΩ between DISCH and TRIG/THRES  
-  - R3 = 1kΩ between DISCH and VCC node (also RESET tied to VCC)  
-  - R1 = 1kΩ series resistor with LED  
+  - R3 = 1kΩ between DISCH and VCC node (also RESET tied to VCC)
 - **LED:** Indicator for output  
 - **Power supply:** 9V battery  
 
