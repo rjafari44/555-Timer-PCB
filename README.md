@@ -106,10 +106,10 @@ Duty cycle ≈ T_high / T_total ≈ 0.326 / 0.651 ≈ 50%
 ## Images
 
 ### Schematic
-![Schematic](assets/555_schematic.png)
+![Schematic](assets/555-schematic.png)
 
 ### PCB Layout
-![PCB Layout](assets/555_pcb_layout.png)
+![PCB Layout](assets/555-pcb-layout.png)
 
 ### 3D PCB Render
-![3D PCB](assets/555_pcb_render.png)
+![3D PCB](assets/555-pcb-render.png)
